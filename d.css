@@ -1,0 +1,43 @@
+*{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+
+
+ }
+
+ body{
+     background-color: #03a5fc;
+     color: #1f2121;
+ }
+
+ div#container{
+
+ }
+
+ul#menu{
+    list-style: none;
+
+}
+
+ ul#menu li{
+    text-align: center;
+    padding: left;
+    margin-left: 50px;
+    margin-right: 50px;
+ }
+
+ ul#menu li a{
+     color: #2f3030;
+ }
+
+#welcome{
+    color: #1f2121;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+ }
+
+
+ 
+

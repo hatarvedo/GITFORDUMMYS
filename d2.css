@@ -1,0 +1,13 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: darkcyan;
+}
+
+#center {
+    display: block;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 15px;
+
+  }
